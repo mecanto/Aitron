@@ -195,7 +195,7 @@ const HeroSection = () => {
           </Topic>
           <Title>Transforming your digital presence</Title>
           <SubText>
-            we help fast growing companies build award winning websites
+            We help fast growing companies build award winning web applications
           </SubText>
           <CTA>
             Get in touch &nbsp;
