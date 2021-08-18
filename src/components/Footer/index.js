@@ -48,8 +48,8 @@ const Footer = () => {
     <FOOTER>
       <LeftText>
         © 2021 Built and Design by{" "}
-        <a href="https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA">
-          @CodeBucks
+        <a href="https://www.youtube.com">
+          @Virtuoso 
         </a>
       </LeftText>
       <RightText>
@@ -62,7 +62,7 @@ const Footer = () => {
           <img src={Instagram} alt="Instagram" />
         </a>
         &nbsp;
-        <a href="mailto:codebucks27@gmail.com?subject=Email From Your Website">
+        <a href="mailto:virtuoso@gmail.com?subject=Email From Your Website">
           <img src={Gmail} alt="Gmail" />
         </a>
       </RightText>
@@ -72,4 +72,4 @@ const Footer = () => {
 
 export default Footer;
 
-//© 2021 by CodeBucks. Design by @CodeBucks.
+//© 2021 by Virtuoso. Design by @.
