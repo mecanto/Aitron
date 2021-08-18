@@ -345,7 +345,7 @@ const Services = () => {
           title={<h1>We Develop high quality Web & App</h1>}
           subText={
             <h5>
-              We build appropriate solution to develope your website & app with
+              We build appropriate solution to develop your website & app with
               best tools available
             </h5>
           }
