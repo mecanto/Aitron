@@ -150,7 +150,7 @@ const Contact = () => {
           <input
             name="email"
             type="email"
-            placeholder="Enter your Email id"
+            placeholder="Enter your email id"
           />
         </Row>
         <textarea
