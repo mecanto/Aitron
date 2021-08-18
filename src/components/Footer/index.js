@@ -54,11 +54,11 @@ const Footer = () => {
       </LeftText>
       <RightText>
         Reach out to me via 😉
-        <a href="https://twitter.com/code_bucks">
+        <a href="https://twitter.com">
           <img src={Twitter} alt="Twitter" />
         </a>
         &nbsp;
-        <a href="https://www.instagram.com/code.bucks/">
+        <a href="https://www.instagram.com/">
           <img src={Instagram} alt="Instagram" />
         </a>
         &nbsp;
