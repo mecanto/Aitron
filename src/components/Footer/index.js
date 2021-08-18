@@ -53,7 +53,7 @@ const Footer = () => {
         </a>
       </LeftText>
       <RightText>
-        Reach out to me via 😉
+        Reach out to us via 😉
         <a href="https://twitter.com">
           <img src={Twitter} alt="Twitter" />
         </a>
