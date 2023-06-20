@@ -49,7 +49,7 @@ const Footer = () => {
       <LeftText>
         © 2021 Built and Design by{" "}
         <a href="https://www.youtube.com">
-          @Virtuoso 
+          @Aitron 
         </a>
       </LeftText>
       <RightText>
