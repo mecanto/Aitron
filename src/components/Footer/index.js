@@ -62,7 +62,7 @@ const Footer = () => {
           <img src={Instagram} alt="Instagram" />
         </a>
         &nbsp;
-        <a href="mailto:virtuoso@gmail.com?subject=Email From Your Website">
+        <a href="mailto:aitronictven@gmail.com?subject=Email From Your Website">
           <img src={Gmail} alt="Gmail" />
         </a>
       </RightText>
